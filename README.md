@@ -28,8 +28,8 @@ A pixel-perfect landing page clone of the [Troscan Framer website](https://trosc
 ### 1. Clone the repository
 
 ````bash
-git clone https://github.com/reazulislam1487/troscan-clone-landing-page.git
-cd troscan-clone-landing-page
+git clone https://github.com/reazulislam1487/framer-clone-landing-page.git
+cd framer-clone-landing-page
 
 
 2. Install dependencies
