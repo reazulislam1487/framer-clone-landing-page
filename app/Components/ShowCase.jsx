@@ -5,12 +5,12 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import Image from "next/image";
 
 const images = [
-  "/showCase/image01.png",
-  "/showCase/image02.png",
   "/showCase/image03.png",
   "/showCase/image04.png",
-  "/showCase/image05.png",
+  "/showCase/image01.png",
   "/showCase/image06.png",
+  "/showCase/image02.png",
+  "/showCase/image05.png",
 ];
 
 // Desktop positions (spread wider)
